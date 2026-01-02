@@ -266,8 +266,9 @@
           </a>
         </div>
         <p class="text-content/80 sm:text-md text-sm mt-1">
-          A library of modern, dark UI elements for Tailwind CSS + Svelte. Over
-          4,000 unique visitors from Reddit and madewithsvelte.
+
+
+ Developed a responsive, multi-page eCommerce application using React, Redux, and Tailwind CSS, featuring full shopping, checkout, and authentication flows. Optimized performance with efficient state management, API integration, and lazy loading for a smooth user experience.
         </p>
       </div>
       <div class={`ml-4 ${p1Open ? "rotate-180" : ""}`}>
@@ -284,12 +285,12 @@
           class="row-span-2 col-span-5 rounded-md border border-secondary-muted/20 h-full object-contain"
         />
         <img
-          src="coastal2.png"
-          class="row-span-1 col-span-2 rounded-md object-cover border border-secondary-muted/20 h-full"
+          src="ecom2.png"
+          class="row-span-1 col-span-2 rounded-md object-cover border border-secondary-muted/20 h-full object-contain"
         />
         <img
-          src="coastal2.png"
-          class="row-span-1 col-span-2 rounded-md object-cover border border-secondary-muted/20 h-full"
+          src="ecom3.png"
+          class="row-span-1 col-span-2 rounded-md object-cover border border-secondary-muted/20 h-full object-contain"
         />
       </div>
       <!-- Mobile Single Image -->
@@ -299,7 +300,7 @@
           class="w-full rounded-md border border-secondary-muted/20 object-cover"
         />
         <a
-          href="https://www.coastalui.com"
+          href="ecom.png"
           target="_blank"
           class="w-full bg-content rounded-md mt-3 flex items-center justify-center text-background py-3"
         >
@@ -333,8 +334,7 @@
           </a>
         </div>
         <p class="text-content/80 mt-1 sm:text-md text-sm">
-          A web app for finding great driving routes near you. Currently built
-          with Svelte + Mapbox, but currently in open beta.
+ Built a full-stack inventory management admin panel with secure authentication, protected routes, and dynamic dashboards using React, Redux, Tailwind CSS, and a Node.js–MongoDB backend. Implemented reusable components, image uploads and scalable APIs with modern security and state-management practices.
         </p>
       </div>
       <div class={`ml-4 ${p2Open ? "rotate-180" : ""}`}>
@@ -348,15 +348,15 @@
       >
         <img
           src="clutch1.png"
-          class="row-span-2 col-span-5 rounded-md border border-secondary-muted/30 h-full object-cover"
+          class="row-span-2 col-span-5 rounded-md border border-secondary-muted/30 h-full object-contain"
         />
         <img
           src="clutch2.png"
-          class="row-span-1 col-span-2 rounded-md object-cover border border-secondary-muted/30 h-full"
+          class="row-span-1 col-span-2 rounded-md object-cover border border-secondary-muted/30 h-full object-contain"
         />
         <img
           src="clutch3.png"
-          class="row-span-1 col-span-2 rounded-md object-cover border border-secondary-muted/30 h-full"
+          class="row-span-1 col-span-2 rounded-md object-cover border border-secondary-muted/30 h-full object-contain"
         />
       </div>
       <!-- Mobile Single Image -->
